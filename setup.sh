@@ -19,3 +19,6 @@ apt-get install node raspberrypi-bootloader adafruit-pitft-helper raspberrypi-ke
 
 # install node packages
 npm install express express-php;
+
+# reboot machine to save changes
+sudo reboot;
